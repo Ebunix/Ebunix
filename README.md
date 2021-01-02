@@ -1,6 +1,6 @@
 ### Creator of Code, Horse and Music 👋
 
-
+I got a [Website](https://itsebu.net)!
 
 <!--
 **Ebunix/Ebunix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
